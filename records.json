@@ -1,0 +1,230 @@
+[
+  {
+    "n": {
+"identity": 0,
+"labels": [
+        "Product"
+      ],
+"properties": {
+"Pname": "RTX3080",
+"Price": 1200
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 1,
+"labels": [
+        "Product"
+      ],
+"properties": {
+"Pname": "IPHONE12",
+"Price": 900
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 2,
+"labels": [
+        "Shop"
+      ],
+"properties": {
+"Sname": "WeltInfo"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 3,
+"labels": [
+        "Shop"
+      ],
+"properties": {
+"Sname": "FractaleShop"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 4,
+"labels": [
+        "Placee"
+      ],
+"properties": {
+"Plname": "Kouba"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 5,
+"labels": [
+        "Placee"
+      ],
+"properties": {
+"Plname": "Audin"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 6,
+"labels": [
+        "Category"
+      ],
+"properties": {
+
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 7,
+"labels": [
+        "Category"
+      ],
+"properties": {
+
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 8,
+"labels": [
+        "User"
+      ],
+"properties": {
+"Uname": "KHELILI Akram"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 9,
+"labels": [
+        "User"
+      ],
+"properties": {
+"Uname": "KASDI Ikram"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 10,
+"labels": [
+        "Product"
+      ],
+"properties": {
+"Pname": "Asus vivo book 15",
+"Price": 800
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 11,
+"labels": [
+        "Product"
+      ],
+"properties": {
+"Pname": "Lenovo ideapad 5",
+"Price": 720
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 12,
+"labels": [
+        "Product"
+      ],
+"properties": {
+"Pname": "Ideapad3",
+"Price": 620
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 13,
+"labels": [
+        "User"
+      ],
+"properties": {
+"Uname": "Alice"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 14,
+"labels": [
+        "User"
+      ],
+"properties": {
+"Uname": "Bob"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 15,
+"labels": [
+        "Product"
+      ],
+"properties": {
+"Pname": "Asus vivo book 15",
+"Price": 800
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 16,
+"labels": [
+        "Product"
+      ],
+"properties": {
+"Pname": "Lenovo ideapad 5",
+"Price": 720
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 17,
+"labels": [
+        "Product"
+      ],
+"properties": {
+"Pname": "Ideapad3",
+"Price": 620
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 18,
+"labels": [
+        "Product"
+      ],
+"properties": {
+"Pname": "Ideapad3"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 19,
+"labels": [
+        "Shop"
+      ],
+"properties": {
+"Sname": "WeltInfo"
+      }
+    }
+  }
+]
